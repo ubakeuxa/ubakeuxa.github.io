@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ubakeuxa.github.io/BtP/sitemap_index.txt
+Sitemap: https://ubakeuxa.github.io/Hwi/sitemap_index.txt
+Sitemap: https://ubakeuxa.github.io/TDN/sitemap_index.txt
+Sitemap: https://ubakeuxa.github.io/TeX/sitemap_index.txt
